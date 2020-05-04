@@ -194,7 +194,7 @@ class GaugeSeekBar : View {
     override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
         super.onMeasure(widthMeasureSpec, heightMeasureSpec)
 
-        init(measuredWidth / 2f, measuredHeight / 2f)
+        //init(measuredWidth / 2f, measuredHeight / 2f)
     }
 
     @SuppressLint("ClickableViewAccessibility")
